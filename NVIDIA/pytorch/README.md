@@ -6,7 +6,7 @@
 ## 案例一
 当前目录下会保存一个`trace.json`，在Google Chrome浏览器的`chrome://tracing`上载入`trace.json`，显示如下：
 
-![test](../figures/pytorch-figure1.png "testcase的timeline")
+![test](../../figures/pytorch-figure1.png "testcase的timeline")
 
 
 当然用户也可以尝试运行脚本：`python torchPer.py`，自行生成新的`trace.json`。
